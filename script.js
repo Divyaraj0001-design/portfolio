@@ -92,9 +92,9 @@ function initScrollProgress() {
 function initTypingEffect() {
     const typedTextElement = document.getElementById('typedText');
     const textArray = [
+        'Full Stack Developer',
         'AI/ML Student',
-        'Python Developer',
-        'Web Developer',
+        'Design Team Member',
         'Open Source Contributor'
     ];
 
